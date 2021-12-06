@@ -1,0 +1,56 @@
+
+body{
+	background-color:#1a6600;
+	color:##333300;
+	font-family: Arial, Helvetica, Sans
+-serif;
+	font-size:16px;
+	line-height:1.4em;
+	magin:2%;
+}
+
+.nav-list{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+.nav-list li{
+	display: block;
+}
+
+.container{
+	width:95%;
+	margin:auto;
+	overflow:hidden;
+	float: left; 
+	display: inline-block;
+}
+
+.body{
+	overflow: hidden;
+	display: inline-block;
+}
+
+#main-header{
+	background-color:#608000;
+	color:#ffff00;
+}
+#navbar{
+	background-color:#608000;
+	color:#ffff00;
+}
+#navbar a{
+	color:#fff000;
+	text-decoration:none;
+	font-size:14px;
+	padding:5px;
+}
+
+#showcase {
+	background-image:url('../images/rm1.jpg');
+	background-position:center right;
+	min-height:300px;
+	margin-bottom:30px
+	text-align:centre;
+}
